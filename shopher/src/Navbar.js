@@ -5,7 +5,7 @@ import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import { withStyles } from '@material-ui/core/styles';
 import { Link } from 'react-router-dom';
-import AuthContext from './components/AuthContext';
+import AuthContext from './Components/AuthContext';
 
 const styles = ({
   root: {
