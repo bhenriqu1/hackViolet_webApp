@@ -3,14 +3,14 @@ import React from 'react';
 import Navbar from './Navbar';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 //Importing each component
-import home from './components/Home';
-import profile from './components/Profile';
-import login from './components/Login';
-import signup from './components/Signup';
-import Footer from './components/Footer';
+import home from './Components/Home';
+import profile from './Components/Profile';
+import login from './Components/Login';
+import signup from './Components/Signup';
+import Footer from './Components/Footer';
 import { ThemeProvider, createMuiTheme } from '@material-ui/core/styles';
 import axios from 'axios';
-import ProfileView from './components/ProfileView'
+import ProfileView from './Components/ProfileView'
 
 axios.defaults.baseURL = "https://us-central1-shopher.cloudfunctions.net/api";
 
