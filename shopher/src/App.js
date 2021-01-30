@@ -8,7 +8,6 @@ import profile from './components/Profile';
 import login from './components/Login';
 import signup from './components/Signup';
 import Footer from './components/Footer';
-import BusinessCard from './components/BusinessCard';
 import { ThemeProvider, createMuiTheme } from '@material-ui/core/styles';
 import axios from 'axios';
 import ProfileView from './components/ProfileView'
