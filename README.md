@@ -6,24 +6,29 @@
 
 ## Home Page with Business Category Menu and Business Profile Cards
 <img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopHerHomeGIF.gif" alt="home"/>
+
 * Upon visiting our domain, `shopher.web.app`, the user can view all of the registered women-owned businesses
 * The category menu allows users to view businesses based on the type of products they sell
-* 
 
 ## Log In and Sign Up
 <img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopHerLoginGIF%20(1).gif" alt="log in and sign up"/>
+
 * A female business owner can create an account to add their business to our database, or log in to make changes to their pre-existing account
 
 ## Edit your Profile
 <img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopherProfileEditGIF.gif" alt="edit profile"/>
+
+
 * A female business owner can easily edit their profile using the edit profile form
 
 ## Upload your Profile Image
 <img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopherProfileImageGIF.gif" alt="upload image"/>
+
 * A female business owner can upload their image or replace their current one
 
 ## View Business Profile Cards
 <img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopherViewGIF.gif" alt="view profile cards"/>
+
 * On the home page, users can click on a business card to view their profile details including their:
   * business name
   * image
