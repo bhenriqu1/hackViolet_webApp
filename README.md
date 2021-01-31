@@ -1,8 +1,40 @@
-# ShopHer, a web-app solution to empower women-owned businesses
+# *ShopHer*, a web tool to empower women-owned businesses
+*ShopHer* is a **web tool for consumers and female business owners** that combines the usage of a **Chrome web extension** and a **web app** to bring awareness and support to women-owned businesses.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Developed by Leela Yaddanapudi, Brenda Henriquez, and Andi Motas
+* Made with React (bootstrapped with [Create React App](https://github.com/facebook/create-react-app)), JavaScript, HTML/CSS, Firebase Realtime Database, Firebase Authentication, Firebase Storage, Axios, Express, Material UI
 
-## todo
+## Home Page with Business Category Menu and Business Profile Cards
+<img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopHerHomeGIF.gif" alt="home"/>
+* Upon visiting our domain, `shopher.web.app`, the user can view all of the registered women-owned businesses
+* The category menu allows users to view businesses based on the type of products they sell
+* 
+
+## Log In and Sign Up
+<img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopHerLoginGIF%20(1).gif" alt="log in and sign up"/>
+* A female business owner can create an account to add their business to our database, or log in to make changes to their pre-existing account
+
+## Edit your Profile
+<img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopherProfileEditGIF.gif" alt="edit profile"/>
+* A female business owner can easily edit their profile using the edit profile form
+
+## Upload your Profile Image
+<img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopherProfileImageGIF.gif" alt="upload image"/>
+* A female business owner can upload their image or replace their current one
+
+## View Business Profile Cards
+<img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopherViewGIF.gif" alt="view profile cards"/>
+* On the home page, users can click on a business card to view their profile details including their:
+  * business name
+  * image
+  * location
+  * type of business
+  * bio
+  * story of how their business began
+  * instagram link
+  * website link
+
+# todo
 
 ### pages:
 - [x] home
