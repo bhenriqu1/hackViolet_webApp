@@ -1,11 +1,11 @@
 # *ShopHer*, a web tool to empower women-owned businesses
-*ShopHer* is a **web tool for consumers and female business owners** that combines the usage of a **Chrome web extension** and a **web app** to bring awareness and support to women-owned businesses.
+*ShopHer* is a **web tool for consumers and female business owners** combining a **Chrome web extension** and a **web app** to bring awareness and support to women-owned businesses.
 
 ### Developed by Leela Yaddanapudi, Brenda Henriquez, and Andi Motas
 * Made with React (bootstrapped with [Create React App](https://github.com/facebook/create-react-app)), JavaScript, HTML/CSS, Firebase Realtime Database, Firebase Authentication, Firebase Storage, Axios, Express, Material UI
 
-[Devpost Submission for HackViolet 2021](https://devpost.com/software/shopher)
-[YouTube Demo](https://www.youtube.com/watch?v=gHeDy0tUrOU&ab_channel=AndiMotas)
+* [Devpost Submission for HackViolet 2021](https://devpost.com/software/shopher)
+* [YouTube Demo](https://www.youtube.com/watch?v=gHeDy0tUrOU&ab_channel=AndiMotas)
 
 ## Home Page with Business Category Menu and Business Profile Cards
 <img src="https://github.com/bhenriqu1/hackViolet_webApp/blob/main/shopher/public/shopHerHomeGIF.gif" alt="home"/>
